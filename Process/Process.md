@@ -16,5 +16,5 @@
     - Heap : 개발자가 동적 할당 하는 영역
     - Stack : 지역 변수, 매개 변수, 함수 호출 시의 돌아갈 리턴 주소 저장
 - OS의 관리 단위
-    - PCB를 통해 OS 커널에 의해 관리됨
-    - 각 프로세스는 고유한 PID를 할당 받음
+    - [PCB](PCB(ProcessControlBlock).md)를 통해 OS 커널에 의해 관리됨
+    - 각 프로세스는 고유한 [PID](PCB-ProcessId.md)를 할당 받음

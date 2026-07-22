@@ -2,7 +2,7 @@
 
 운영체제가 프로세스를 관리하기 위해 프로세스의 상태 및 제어 정보를 저장하는 데이터 구조
 
-이미지 삽입
+<img src="../img/PCB.png" width = 400 height = 250></image>
 
 ## 특징
 
@@ -17,10 +17,10 @@
 
 ## PCB에 저장되는 주요 정보
 
-1. PID Process ID : 프로세스 식별 번호
-2. Process State : 생성(new) , 준비 (ready), 실행(Running), 대기(waiting), 종료(terminated)
-3. Program Counter(PC) : 프로세스가 다음에 실행할 명령어의 메모리 주소
-4. CPU Registers : acumulator, index register, stack pointer 등의 레지스터 상태 값
+1. [PID](PCB-ProcessId.md) (Process ID) : 프로세스 식별 번호
+2. [Process State](PCB-ProcessStatus.md) : 생성(new) , 준비 (ready), 실행(Running), 대기(waiting), 종료(terminated)
+3. [Program Counter](PCB-PC.md)(PC) : 프로세스가 다음에 실행할 명령어의 메모리 주소
+4. [CPU Registers](CPURegister.md) : acumulator, index register, stack pointer 등의 레지스터 상태 값
 5. CPU scheduling information : 우선 순위, 큐 포인터 등
 6. Memory Management Information : Page table, Segment table 정보
 7. Accouting & I/O Status : CPU 사용시간, 열린 파일 목록(file Descriptor) 등
