@@ -6,7 +6,7 @@
 
 프로그램이 메모리에 올려져 OS에 의해 관리되며 돌아가기 시작하면 프로세스
 
-<img src = "../img/process.png" width = "300" height = "200"></image>
+<img src = "../img/process.png" width = "400" height = "250"></image>
 
 ## 특징
 
