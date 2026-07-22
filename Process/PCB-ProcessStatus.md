@@ -1,4 +1,4 @@
-# PCB - Process Status
+# [PCB](PCB(ProcessControlBlock).md) - Process Status
 
 프로세스가 어떤 상태에 있는지, CPU와 메모리를 얼마나 사용하고 있는지, 어떤 자원을 점유하고 있는지 등 실행 현황 전체를 종합해서 나타내는 정보
 

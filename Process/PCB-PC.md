@@ -1,4 +1,4 @@
-# PCB - PC
+# [PCB](PCB(ProcessControlBlock).md) - PC
 
 다음번에 CPU를 다시 잡으면 실행해야 할 명령어의 메모리 주소를 기록해 두는 값
 

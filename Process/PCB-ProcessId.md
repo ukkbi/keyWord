@@ -1,4 +1,4 @@
-# PCB- Process Id
+# [PCB](PCB(ProcessControlBlock).md)- Process Id
 
 각 프로세스를 유일하게 구별하기 위해 부여하는 고유한 정수 번호
 
